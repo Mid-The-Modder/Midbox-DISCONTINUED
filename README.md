@@ -5,6 +5,7 @@ The name is Midbox. I know, dull name. I'll find a good name sometime in the fut
 https://mid-the-modder.github.io/Midbox/
 ### Known Issues
 Modbox Trill envelope sounds incorrect when at certain tempos.
+New envelopes sound terrible when combined with certain settings, like pulse width.
 ## Changelog
 ### V0.0.1
 Added Keys for octaves one higher and lower.
