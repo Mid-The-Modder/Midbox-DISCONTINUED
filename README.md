@@ -2,6 +2,7 @@
 I guess I am making my own mod in beepbox. Here is the beta release, or V0.0.1.
 The mod so far does not plan to go in any direction, but I want to expand beepbox a bit in a few questionable places.
 The name is Midbox. I know, dull name. I'll find a good name sometime in the future. I'll also attempt to make a logo for it if I can.
+https://mid-the-modder.github.io/Midbox/
 ## Changelog
 ### V0.0.1
 Added Keys for octaves one higher and lower.
