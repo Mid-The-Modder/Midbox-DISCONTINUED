@@ -8,3 +8,8 @@ Added Keys for octaves one higher and lower.
 Added 3 unisons. Deep Shift, Peak, and Hyper.
 Lessened a few limits in Beepbox. These include tempo, beats per bar, song length, and etc. Most of these settings will match with Ultrabox.
 Added the "Modbox Trill" transition effect as an envelope.
+
+### V0.0.2
+Added multiple new chip waves. 1/6 pulse, 1/12 pulse, 1/16 pulse, and test.
+Two new unisons. Broke and Vary.
+Added the "Modbox Blip" transition effect as an envelope.
