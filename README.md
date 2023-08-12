@@ -4,7 +4,8 @@ The mod so far does not plan to go in any direction, but I want to expand beepbo
 The name is Midbox. 
 https://mid-the-modder.github.io/Midbox/
 ### Known Issues
-New envelopes sound terrible when combined with certain settings, like pulse width.
+"Modbox Blip" envelope sounds terrible when combined with certain settings, like pulse width.
+Version displayed doesn't lead to correct URL.
 ## Changelog
 ### V0.0.1
 Added Keys for octaves one higher and lower.
@@ -23,3 +24,9 @@ Fixed "Modbox Trill" envelope and made it more accurate. Thanks to Leo for the h
 Edited a few sliders to have more freedom.
 Added the "Xylophone Saw" as a preset.
 Added a few new strum chord types of varying speeds.
+
+### V0.0.4
+Added a plethora of new presets!
+Added the "energetic" unison.
+Changed most important mentions of Beepbox into Midbox.
+Added 3 new vibrato types. Aqua, Aqua Delayed, and Drunk.
