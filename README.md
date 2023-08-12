@@ -6,6 +6,8 @@ https://mid-the-modder.github.io/Midbox/
 ### Known Issues
 "Modbox Blip" envelope sounds terrible when combined with certain settings, like pulse width.
 Version displayed doesn't lead to correct URL.
+Song player is nonfunctional.
+Beepbox introduction is nonexistent.
 ## Changelog
 ### V0.0.1
 Added Keys for octaves one higher and lower.
