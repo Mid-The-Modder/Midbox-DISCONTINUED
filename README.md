@@ -1,4 +1,4 @@
-# Midbox
+# Midbox {Discontinued Beta}
 I guess I am making my own mod in beepbox. Here is the DISCONTINUED beta release, or V0.0.4.1
 The mod so far does not plan to go in any direction, but I want to expand beepbox a bit in a few questionable places.
 The name is Midbox. 
