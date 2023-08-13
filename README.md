@@ -32,3 +32,5 @@ Added a plethora of new presets!
 Added the "energetic" unison.
 Changed most important mentions of Beepbox into Midbox.
 Added 3 new vibrato types. Aqua, Aqua Delayed, and Drunk.
+
+## There are a few more things, however, I will attempt to do this on Jummbox instead since it is probably better to work there for the amount of new options.
