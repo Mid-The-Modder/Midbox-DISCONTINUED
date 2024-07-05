@@ -1,28 +1,35 @@
 # Midbox {Discontinued Beta}
-I guess I am making my own mod in beepbox. Here is the DISCONTINUED beta release, or V0.0.4.1
-The mod so far does not plan to go in any direction, but I want to expand beepbox a bit in a few questionable places.
-The name is Midbox. 
-https://mid-the-modder.github.io/Midbox/
+I guess I am making my own mod in beepbox. Here is the (now DISCONTINUED) beta release, or V0.0.4.1
+The mod so far does not plan to go in any direction, as I just wanted to expand BeepBox in a few questionable places.
+The name of this BeepMod is Midbox. 
+
+[Discontinued beta](https://mid-the-modder.github.io/Midbox-DISCONTINUED/) 
+
+[Official version](https://mid-the-modder.github.io/Midbox/)
+
+
 ### Known Issues
-"Modbox Blip" envelope sounds terrible when combined with certain settings, like pulse width.
+"ModBox Blip" envelope breaks certain envelope targets, like pulse width.
 Version displayed doesn't lead to correct URL.
 Song player is nonfunctional.
-Beepbox introduction is nonexistent.
+BeepBox introduction is nonexistent.
+Picked string does not work with unisons with more than 3 voices.
+
 ## Changelog
 ### V0.0.1
 Added Keys for octaves one higher and lower.
 Added 3 unisons. Deep Shift, Peak, and Hyper.
-Lessened a few limits in Beepbox. These include tempo, beats per bar, song length, and etc. Most of these settings will match with Ultrabox.
-Added the "Modbox Trill" transition effect as an envelope.
+Lessened a few limits in BeepBox. These include tempo, beats per bar, song length, and etc. Most of these settings now match with UltraBox.
+Added the "ModBox Trill" transition effect as an envelope.
 
 ### V0.0.2
 Added multiple new chip waves. 1/6 pulse, 1/12 pulse, 1/16 pulse, and test.
 Two new unisons. Broke and Vary.
-Added the "Modbox Blip" transition effect as an envelope.
+Added the "ModBox Blip" transition effect as an envelope.
 
 ### V0.0.3
 Changed the chip wave, test, into Heavy Saw.
-Fixed "Modbox Trill" envelope and made it more accurate. Thanks to Leo for the help on this.
+Fixed "ModBox Trill" envelope and made it more accurate. Thanks to LeoV for the help on this.
 Edited a few sliders to have more freedom.
 Added the "Xylophone Saw" as a preset.
 Added a few new strum chord types of varying speeds.
@@ -30,7 +37,9 @@ Added a few new strum chord types of varying speeds.
 ### V0.0.4
 Added a plethora of new presets!
 Added the "energetic" unison.
-Changed most important mentions of Beepbox into Midbox.
+Changed most important mentions of BeepBox into Midbox.
 Added 3 new vibrato types. Aqua, Aqua Delayed, and Drunk.
 
-## There are a few more things, however, I will attempt to do this on Jummbox instead since it is probably better to work there for the amount of new options. I have to find out how to do this though so it will take a while.
+
+
+_Warning, this is the discontinued version of Midbox as mentioned various times before. There will be no more updates made to this repository. This version is preserved for the mod's history. Please go visit [the official Midbox repository](https://github.com/Mid-The-Modder/Midbox) instead._
